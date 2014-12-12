@@ -7,7 +7,15 @@ C# code  that Writes a Registry, Creates a file, and connects to the Internet to
 =========
 Requirements
 =========
-1.) None
+1.) Download RegShot, take your 1st Shot of the registry
+2.) Download Process Monitor, disabled "Show Resolved Addresses", add the "Thread ID" column, start capture
+3.) Download Wireshark, start capture
+4.) Run this C# code from an executable
+5.) Save the Process Monitor as a CSV
+6.) Save the Wireshark as a tcpdump
+7.) Take your 2nd Shot of the registry from RegShot
+8.) Compare your registries with RegShot
+9.) Download ProcDot, Graphviz, and WinDump, open the CSV and tcpdump, and refresh
 
 =========
 License
