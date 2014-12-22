@@ -46,3 +46,10 @@ general use.  If you distribute this code, please give include credit
 for the	original authors since they put a lot of time into this:
 
   Justin C Miller aka neonprimetime
+
+======================
+Who Am I?
+======================
+neonprimetime security
+http://neonprimetime.blogspot.com
+ 
